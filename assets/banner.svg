@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="bbutterm — Business analysis and practical products">
+<rect width="1200" height="340" rx="24" fill="#0d1424"/>
+<path d="M850 0V340M910 0V340M970 0V340M1030 0V340M1090 0V340M1150 0V340M810 50H1200M810 110H1200M810 170H1200M810 230H1200M810 290H1200" stroke="#26334a" opacity=".5"/>
+<rect x="48" y="47" width="7" height="20" rx="3" fill="#75a7ff"/>
+<text x="70" y="65" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" fill="#c6d2e5">bbutterm</text>
+<text x="48" y="140" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" fill="#f4f7fc">Practical tools.</text>
+<text x="48" y="201" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" fill="#75a7ff">Interactive products.</text>
+<text x="50" y="257" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#aab8cf">Business analysis · SQL · Web applications · Telegram Mini Apps</text>
+<circle cx="960" cy="165" r="83" fill="none" stroke="#75a7ff" stroke-width="2"/>
+<circle cx="960" cy="165" r="54" fill="#16243c" stroke="#314a70"/>
+<path d="M940 146L921 165L940 184M980 146L999 165L980 184M969 139L950 191" fill="none" stroke="#92baff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1100" cy="92" r="9" fill="#6de0c0"/><circle cx="1060" cy="282" r="6" fill="#c1a0ff"/>
+</svg>
