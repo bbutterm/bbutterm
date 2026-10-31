@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="540" height="220" viewBox="0 0 540 220" role="img" aria-label="Prascha — One-finger gravity puzzle">
-<rect x="1" y="1" width="538" height="218" rx="18" fill="#111a2b" stroke="#2a3750"/>
+<rect x="1" y="1" width="538" height="218" rx="18" fill="#101827" stroke="#2a3750"/>
 <rect x="28" y="27" width="36" height="4" rx="2" fill="#f59f8a"/>
 <text x="484" y="42" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#71849f">05</text>
-<text x="28" y="85" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#f3f6fc">Prascha</text>
+<text x="28" y="85" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#fff2dc">Prascha</text>
 <text x="28" y="122" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#b4c2d7">One-finger gravity puzzle</text>
 <text x="28" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#f59f8a">Mobile web · Prototype</text>
 <path d="M486 170H509M501 162L509 170L501 178" fill="none" stroke="#f59f8a" stroke-width="2"/>
